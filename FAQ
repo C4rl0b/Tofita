@@ -1,16 +1,16 @@
 
-####What is Greentea OS?####
+#### What is Greentea OS?
 It is a new generation Operating System able to run your Windows programs.
 
-####Is Greentea OS a GNU/Linux distro?####
+#### Is Greentea OS a GNU/Linux distro?
 No. It is an independent OS.
 
-####What makes Greentea OS as unique OS?####
+#### What makes Greentea OS as unique OS?
 It is a runtimes-based OS, aimed at strict containerization it has no API to itself from user space
 
-There is no iso image to download.####
+There is no iso image to download.
 For the moment no. It is still under construction
 
-####How can I test it?####
+#### How can I test it?
 
 
